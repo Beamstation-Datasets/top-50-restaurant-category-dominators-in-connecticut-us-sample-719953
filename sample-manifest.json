@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4a61e8c9-4df6-42f8-a4ac-30935ee20bb3",
+  "id_short": 719953,
+  "published_at": "2026-04-14T07:13:39Z",
+  "repo_name": "top-50-restaurant-category-dominators-in-connecticut-us-sample-719953",
+  "sample_asset_name": "beamstation_719953_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/719953/beamstation_719953_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "5935cf8a03e3b675b92dfcc518293d5c2a9b6f03071b68d75c0604b057e1c19b",
+  "sample_size_bytes": 28278,
+  "total_records": 44
+}
