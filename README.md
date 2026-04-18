@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Connecticut, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `719953` |
 | Location | Connecticut |
 | Category | Restaurants |
-| Full dataset size | 44 records |
-| Free sample size | 3 records (6.82%) |
-| Last export | 2026-03-31T22:58:17.021343+00:00 |
+| Full dataset size | 50 records |
+| Free sample size | 5 records (10.0%) |
+| Last export | 2026-04-15T00:34:02.344624+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-connecticut-us-sample-719953/releases/download/sample-latest/beamstation_719953_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
