@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Connecticut, US",
-  "export_job_id": "c9f7e5a3-5258-4148-9650-5c5f21d7ea96",
+  "export_job_id": "d82f88c9-c453-47e9-858d-6b4f3a0dc85f",
   "github_org": "Beamstation-Datasets",
   "id_short": 719953,
   "location_name": "Connecticut",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-connecticut-us-sample-719953",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/719953/beamstation_719953_restaurants-us-ct_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 8.62,
   "sample_records": 5,
-  "sample_sha256": "8b836bcff189be187e563c765d3a3ffcb514931ffb678d9eeec371bc69fc13f8",
-  "sample_size_bytes": 37191,
-  "total_records": 50,
-  "updated_at": "2026-04-15T00:34:02.344624+00:00"
+  "sample_sha256": "98ad73499ec4e1423f6068cb4a72a9d5797f2e3021e59a3698329b268acce99b",
+  "sample_size_bytes": 37493,
+  "total_records": 58,
+  "updated_at": "2026-04-22T04:43:18.729589+00:00"
 }
